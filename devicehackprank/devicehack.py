@@ -37,6 +37,6 @@ if passwordcrack == password:
     print("-----------------------------------")
     print("Thank you for using DeviceHack 0.1!")
     print("-----------------------------------")
-else
+else:
     print("Incorrect password. Stopping DeviceHack.")
     exit()
