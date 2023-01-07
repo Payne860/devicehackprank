@@ -7,7 +7,7 @@ username = input("Enter username to log in: ")
 print("Username:", username)
 time.sleep(1)
 password = input("Enter your password: ")   
-if username = oMy and password = scrtmnu:
+if username == oMy and password == scrtmnu:
     print("s")
     time.sleep(0.1)
     print("se")
